@@ -24,4 +24,4 @@ swiftness_proof_parser = "0.1.0"
 thiserror = "1.0.63"
 
 [patch.crates-io]
-cairo-vm = "2.0.1"
+cairo-vm = { git = "https://github.com/lambdaclass/cairo-vm", version = "2.0.1" }
