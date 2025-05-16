@@ -12,7 +12,7 @@ cairo-lang-casm = { git = "https://github.com/starkware-libs/cairo/", version = 
 cairo-lang-runner = { git = "https://github.com/starkware-libs/cairo/", version = "2.11.4"}
 cairo-lang-sierra = { git = "https://github.com/starkware-libs/cairo/", version = "2.11.4"}
 cairo-lang-utils = { git = "https://github.com/starkware-libs/cairo/", version = "2.11.4"}
-cairo-vm = "2.0.1"
+cairo-vm = "1.0.1"
 clap = { version = "4.5.17", features = ["derive"] }
 itertools = "0.13.0"
 num-bigint = "0.4.6"
